@@ -50,4 +50,4 @@ private void testFunction() {
 
 Output:
 
-<img src="https://raw.githubusercontent.com/marcoscgdev/Leg/master/screenshot.png" width="350">
+<img src="https://raw.githubusercontent.com/marcoscgdev/Leg/master/screenshot.png" width="550">
