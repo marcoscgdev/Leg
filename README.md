@@ -1,7 +1,6 @@
 # Leg
 Say goodbye to log tags!
 
----
 
 ## Releases:
 
@@ -9,7 +8,6 @@ Say goodbye to log tags!
 
 You can see all the library releases [here](https://github.com/marcoscgdev/Leg/releases).
 
----
 
 ## Usage:
 
@@ -39,7 +37,7 @@ Leg.e("Do not worry, this is not an error.");
 
 testFunction();
 
-Leg.d("Say goodbye to log tags!")
+Leg.i("extra info here", "You can add extra info too.")
 ```
 
 ```java
@@ -52,7 +50,6 @@ Output:
 
 <img src="https://raw.githubusercontent.com/marcoscgdev/Leg/master/screenshot.png">
 
----
 
 ## License
 
